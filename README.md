@@ -1,6 +1,5 @@
 # Behavioral tracer
-Transferred my video tracing code from Matlab to Python. 
-This Python code utilizes various libraries, check dependencies first!
+Transferred my video tracing code from Matlab to Python. Uses OpenCV to accelerate processing. 
 
 ### Mouse tracer
 #### Latest version: `mouse_tracker3_multiple.py`
