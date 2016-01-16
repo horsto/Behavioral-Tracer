@@ -1,6 +1,5 @@
 # Tracing Script written in Python 
-Transferred tracing code from Matlab to Python
-
+Transferred tracing code from Matlab to Python. 
 This Python code utilizes various libraries, check dependencies first!
 
 ## Mouse tracer
@@ -26,7 +25,8 @@ Argument:
 
 ## Post Process Trace
 ### Last version: `2D_histogram_multiple_3D.py`
-This script processes the 
+This script processes the output .csv files of the tracing script (see above).
+
 **Dependencies:** 
 * Numpy
 * Scipy
