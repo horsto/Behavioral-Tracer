@@ -32,5 +32,3 @@ This script processes the output .csv files of the tracing script (see above).
 * imutils
 * Matplotlib
 
-!['Screen shot'](example_output_2Dhistogram.jpg)
-
