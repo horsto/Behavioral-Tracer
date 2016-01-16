@@ -10,8 +10,8 @@ Example usage:
 ```
 mouse_tracker3_multiple.py -s 10 -v 'example/olf5_1.mov'
 ``` 
-*`-s`: How many frames should be skipped
-*`-v`: Video file to be processed; comma separated list possible
+* `-s`: How many frames should be skipped
+* `-v`: Video file to be processed; comma separated list possible
 
 **Dependencies:** 
 * OpenCV 3.0 
