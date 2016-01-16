@@ -1,5 +1,5 @@
-# Behavioral tracing script written in python 
-Transferred my tracing code from Matlab to Python. 
+# Behavioral tracer
+Transferred my video tracing code from Matlab to Python. 
 This Python code utilizes various libraries, check dependencies first!
 
 ### Mouse tracer
