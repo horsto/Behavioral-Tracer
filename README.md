@@ -24,13 +24,13 @@ mouse_tracker3_multiple.py -s 10 -v 'example/olf5_1.mov'
 
 ### Post Process Trace
 #### Latest version: `2D_histogram_multiple_3D.py`
-This script processes the output .csv files of the tracing script (see above). Output: `all_paths_[...].csv`: Names and calculated distances (as example) of analyzed traces. `[...].csv_3D.png`: 3D representation of mouse path (path over time). `group average.png`: Group average of all analyzed .csv traces. 
+This script processes the output .csv files of the tracing script (see above). Output: `all_paths_[...].csv`: Names and calculated distances (as example) of analyzed traces. `[...].csv_3D.png`: 3D representation of mouse path (path over time in seconds). `group average.png`: Group average of all analyzed .csv traces. 
 
 Example usage: 
 ```
 2D_histogram_multiple_3D.py -f "example"
 ``` 
-* `-f`: Give (top) folder of .csv files. Will search through folders for all available .csv files. 
+* `-f`: Give (top) folder of .csv files. Will search through folder tree for all available .csv files. 
 
 **Dependencies:** 
 * Numpy
