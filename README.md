@@ -37,7 +37,7 @@ Example usage:
 * imutils
 * Matplotlib
 
-!['Trace and 2D histogram'](example/olf5_1.mov_2016-01-16_17-44-01.csv.png)
+Example 3D trace:
 !['3D trace representation'](example/olf5_1.mov_2016-01-16_17-44-01.csv_3D.png)
 
 
